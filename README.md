@@ -29,3 +29,7 @@ About the project
 =======
 In this project the main menu is divided into two services: first one is the directory services and the second one is the file services. The item from the main menu can be selected by pressing either the enter key or the hotkey which is represented by the bold character.
 This project uses the library dos.h which defines various constants and gives declarations needed for DOS and 8086-specific calls. The union REGS available in the dos.h header file is used to pass information to and from the functions int86() and intdos(). 
+
+NOTE
+=======
+This project was developed in <b>Turbo C++ 3.0<b/> and needs to be tweaked to run on other compilers.
