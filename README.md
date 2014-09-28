@@ -6,7 +6,9 @@ This utility provides the maintenance of files and directories. In the directory
   2.	Change directory
   3.	Delete Directory
   4.	List Directory
+
 ->File services:
+=======
   1.  Compress File
   2.	Decompress File
   3.	Get File Attributes
@@ -15,7 +17,9 @@ This utility provides the maintenance of files and directories. In the directory
   6.	Decrypting File
   7.	Type File
   8.	Delete File
+
 ->Concepts involved:
+=======
   1.	OOP based Project.
   2.	Header files to declare the global functions and to include them in the Program.
   3.	Used VDU mapping to make the program faster and efficient. 
