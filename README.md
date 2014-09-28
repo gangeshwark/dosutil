@@ -32,4 +32,4 @@ This project uses the library dos.h which defines various constants and gives de
 
 NOTE
 =======
-This project was developed in <b>Turbo C++ 3.0<b/> and needs to be tweaked to run on other compilers.
+This project was developed in <b>Turbo C++ 3.0</b> and needs little tweaking to run on other compilers.
